@@ -1,18 +1,23 @@
 <h1 align="center">||<!-- Add Project Title Here -->||</h1>
 <div align="center">
 <img src="https://github.com/MaxBrockbank.png" width="200px" height="auto" >
+<img src="https://github.com/Dave-Sterry.png" width="200px" height="auto" >
 </div>
 <p align="center">Authored by Max Brockabnk</p>
 <p align="center">Updated on <!-- Last updated --></p>
 
 ## Description
-
+A practice site testing out basic jQuery methods.
 
 ## Set-up Instructions
-1. 
+1. Clone repository to your desktop
+2. Open index.html in the browser of your choice
+* <em>Alternatively</em> you can just click <a href="#">HERE</a>
 
 ## Technologies Used
-* 
+* HTML
+* JavaScript / jQuery
+* Git / GitHub
 
 ## Legal
 * Copyright (c) 2020 Max Brockbank
