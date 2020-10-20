@@ -5,3 +5,19 @@
   color: red;
   cursor: pointer;
 }
+
+.section{
+  height: 50vh;
+  width: auto;
+  background-color: black;
+  color: white;
+}
+
+#one, #two, #three{
+display:none;
+}
+
+.button{
+  color: red;
+  cursor: pointer;
+}

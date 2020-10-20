@@ -3,4 +3,13 @@ $(document).ready(function(){
     $("#initial-show").toggle();
     $("#initial-hide").toggle();
   });
+  $("#next").click(function(){
+    $("#one").fadeToggle()
+  })
+  $("#nextOne").click(function(){
+    $("#two").fadeToggle()
+  })
+  $("#nextTwo").click(function(){
+    $("#three").fadeToggle()
+  })
 });

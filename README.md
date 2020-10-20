@@ -2,12 +2,13 @@
 <div align="center">
 <img src="https://github.com/MaxBrockbank.png" width="200px" height="auto" >
 <img src="https://github.com/Dave-Sterry.png" width="200px" height="auto" >
+<img src="">
 </div>
-<p align="center">Authored by Max Brockabnk and David Sterry</p>
-<p align="center">Updated on Oct 19, 2020</p>
+<p align="center">Authored by Max Brockabnk and David Sterry and Joseph Giunta</p>
+<p align="center">Updated on Oct 20, 2020</p>
 
 ## Description
-A practice site testing out basic jQuery methods.
+A practice site testing out basic jQuery effect methods.
 
 ## Set-up Instructions
 1. Clone repository to your desktop
@@ -20,5 +21,5 @@ A practice site testing out basic jQuery methods.
 * Git / GitHub
 
 ## Legal
-* Copyright (c) 2020 Max Brockbank and David Sterry
+* Copyright (c) 2020 Max Brockbank and David Sterry and Joseph Giunta
 * This software is licensed under the MIT license
