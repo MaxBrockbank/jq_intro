@@ -1,0 +1,7 @@
+#initial-hide{
+  display: none;
+}
+.clickable{
+  color: red;
+  cursor: pointer;
+}
